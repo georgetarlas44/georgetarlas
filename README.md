@@ -15,8 +15,6 @@ monthly from investments. While I take care of my family as well!! </p1>
 <img src="https://www.facebook.com/photo.php?fbid=2971568586200980&set=pb.100000436036963.-2207520000..&type=3" alt="1 year later">
 <h2> Table with Border </h2>
 
-
-
 <table style= "width:100%">
 <tr>
 <th>George</th>
