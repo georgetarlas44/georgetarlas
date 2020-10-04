@@ -1,12 +1,6 @@
-# georgetarlas
 <!DOCTYPE html>
 <html>
 <body>
-<style>
-table, th, td { 
-border: 1px solid Black; 
-}
-</style>
 </head>
 </body>
 <h1>My name is George Tarlas </h1>
